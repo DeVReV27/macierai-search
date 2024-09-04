@@ -1,0 +1,10 @@
+streamlit
+Pillow
+python-dotenv
+requests
+beautifulsoup4
+anthropic
+fastapi
+uvicorn
+Flask
+pocketgroq>=0.1.5
