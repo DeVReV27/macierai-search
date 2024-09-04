@@ -205,7 +205,7 @@ def main(api_key_arg: str = None, num_results: int = 10, max_tokens: int = 4096,
     .search-container {
         max-width: 600px;
         margin: 0 auto;
-        color: #3c4043;
+        color: #FFFFFF;
     }
     .search-results {
         max-width: 600px;
