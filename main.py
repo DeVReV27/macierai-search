@@ -212,23 +212,23 @@ def main(api_key_arg: str = None, num_results: int = 10, max_tokens: int = 4096,
         margin: 0 auto;
         text-align: left;
         padding: 1px;
-        color: #FF5733;
+        color: #000000
     }
     .search-result {
         margin-bottom: 20px;
     }
     .search-result-title {
         font-size: 16px;
-        color: #FF5733;
+        color: #000000;
         text-decoration: none;
     }
     .search-result-url {
         font-size: 14px;
-        color: #FF5733;
+        color: #000000;
     }
     .search-result-description {
         font-size: 14px;
-        color: #FF5733;
+        color: #000000;
     }
     </style>
     """, unsafe_allow_html=True)
