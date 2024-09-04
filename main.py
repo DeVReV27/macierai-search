@@ -205,30 +205,30 @@ def main(api_key_arg: str = None, num_results: int = 10, max_tokens: int = 4096,
     .search-container {
         max-width: 600px;
         margin: 0 auto;
-        color: #000000;
+        color: #3c4043;
     }
     .search-results {
         max-width: 600px;
         margin: 0 auto;
         text-align: left;
         padding: 1px;
-        color: #000000
+        text-color: #000000
     }
     .search-result {
         margin-bottom: 20px;
     }
     .search-result-title {
         font-size: 16px;
-        color: #000000;
+        text-color: #000000;
         text-decoration: none;
     }
     .search-result-url {
         font-size: 14px;
-        color: #000000;
+        text-color: #000000;
     }
     .search-result-description {
         font-size: 14px;
-        color: #000000;
+        text-color: #000000;
     }
     </style>
     """, unsafe_allow_html=True)
