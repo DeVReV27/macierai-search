@@ -218,7 +218,7 @@ def main(api_key_arg: str = None, num_results: int = 10, max_tokens: int = 4096,
         margin-bottom: 20px;
     }
     .search-result-title {
-        font-size: 17px;
+        font-size: 16px;
         color: #FF5733;
         text-decoration: none;
     }
